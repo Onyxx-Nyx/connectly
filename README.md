@@ -43,19 +43,6 @@ connectly/
 
 ## Important note about accounts
 
-This project has no server. Accounts live in your browser's `localStorage`, and the password field is only checked for length and is never stored. Do not use a real password. To add real authentication, you would need a backend such as Node with Express, Firebase or Supabase.
+This project has no server. Accounts live in your browser's `localStorage`, and the password field is only checked for length and is never stored. Do not use a real password.
 
-## Ideas for next steps
-
-- Connect a real backend and database for accounts and posts
-- Add profile pages and profile photos
-- Add notifications for likes and comments
-- Add edit post and delete comment
-- Add a dark theme
-
-## Publish on GitHub Pages
-
-1. Push the project to a GitHub repository.
-2. Open the repository on GitHub, then go to **Settings** and **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and the `/ (root)` folder, then save.
-4. After a minute, your site is live at `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`.
+Built by Onyxx_Nyx
